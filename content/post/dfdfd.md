@@ -1,6 +1,6 @@
 +++
 title = ""
-view = nil
+view = 2
 [header]
 caption = ""
 image = ""
