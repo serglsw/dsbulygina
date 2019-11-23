@@ -5,11 +5,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Darya Bulygina"
+title = "Дарья Булыгина"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://serglsw.github.io/"
+baseurl = "https://dsbulygina.ru/"
 
 publishDir = "docs"
 
