@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/authors/admin/_index.md
   label: Главная и автор
-  match: "**/*"
 - type: directory
   path: content/publication
   label: Публикации
