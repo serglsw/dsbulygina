@@ -4,8 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/authors/admin/_index.md
+  label: Главная и автор
 - type: directory
-  path: content/publications
+  path: content/publication
   label: Публикации
   create: all
   match: "*"
@@ -14,7 +17,7 @@ sections:
   label: Посты
   create: all
   match: "*"
-upload_dir: config/_default/static/uploads
+upload_dir: docs/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
