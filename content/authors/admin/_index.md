@@ -1,6 +1,5 @@
 ---
 # Display name
-name: Дарья Булыгина
 
 # Username (this should match the folder name)
 authors:
@@ -8,32 +7,6 @@ authors:
 
 # Is this the primary user of the site?
 superuser: true
-
-# Role/position
-role: Медицинский психолог
-
-# Organizations/Affiliations
-organizations:
-- name: Санкт-Петербургский государственный университет
-  url: "https://spbu.ru/"
-- name: Центр по профилактике и борьбе со СПИД и инфекционными заболеваниями, Санкт Петербург
-  url: "http://www.hiv-spb.ru/"
-
-# Short bio (displayed in user profile at end of posts)
-bio: Клиническая психология
-
-interests:
-- Психология
-- Вопросы профилактики ВИЧ, гепатитов
-
-education:
-  courses:
-  - course: Клиническая психология
-    institution: Санкт-Петербургский государственный университет
-    year: 2019
-  - course: 
-    institution: Санкт-Петербургский государственный университет
-    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,5 +32,3 @@ email: "serg@lsw.ru"
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: []
 ---
-
-Тут Биография Дарья Булыгиной
